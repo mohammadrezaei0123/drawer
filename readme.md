@@ -1,6 +1,6 @@
 ## LessCode Drawer
 This library is designed for navbar component from bootstrap framework.Of course, using "JQeary selector" can be customized.
-for example: `$("#example,.example2").clone(true);`
+for example: `$("#example,.example2").clone(true);` [more information](https:/mohammadrezaei0123.github.io/drawer-home/drawer.html)
 
 ### Why
 * flexible drawer
