@@ -1,0 +1,21 @@
+{
+  "name": "lesscode-drawer",
+  "version": "1.0.3",
+  "description": "drawer for bootstrap4",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LessCode",
+    "drawer",
+    "bootstrap",
+    "bootstrap4",
+    "rtl",
+    "drawer rtl",
+    "custom drawer",
+    "navbar drawer"
+  ],
+  "author": "m.r",
+  "license": "ISC"
+}
