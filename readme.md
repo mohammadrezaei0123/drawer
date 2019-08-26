@@ -23,7 +23,9 @@ Copy-paste the stylesheet <link> into your <head> before all other stylesheets.
 It requires jQuery to use this library.
 ```html
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="/js/lib/drawer-bootstrap4.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/lesscode-drawer@latest/dist/js/lesscode-drawer.js"></script>
 ```
 ### Usage
 Here's how to use left to right. There are two ways for right-to-left:
